@@ -1,0 +1,8 @@
+shapely
+numpy
+torch==1.6.0
+torchvision>=0.7.0
+opencv-python==3.4.5.20
+opencv-python-headless==3.4.5.20
+scikit-image>=0.14.2
+scipy>=1.1.0
